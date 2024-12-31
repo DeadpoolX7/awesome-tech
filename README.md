@@ -1,8 +1,8 @@
 # Welcome to awesome-tech! 🚀
 <!--badges-->
 ![awesome-list](https://img.shields.io/badge/Awesome%20Lists-FC60A8.svg?style=for-the-badge&logo=Awesome-Lists&logoColor=white)
-### A comprehensive collection of the best resources across various technology domains, meticulously curated to help you excel in your tech journey. Whether you're a beginner or an experienced professional, you'll find valuable materials to enhance your skills and knowledge.
-## Put a Star on GitHub to support the project and help others find it. 🌟
+A comprehensive collection of the best resources across various technology domains, meticulously curated to help you excel in your tech journey. Whether you're a beginner or an experienced professional, you'll find valuable materials to enhance your skills and knowledge.
+### Put a Star on GitHub to support the project and help others find it. 🌟
 
 ### For contributions: [**check here**](#contribution)
 ### See the [*License*](#license).
