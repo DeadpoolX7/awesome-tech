@@ -72,6 +72,7 @@ A comprehensive collection of the best resources across various technology domai
 
 * **NextJS**
     - [**NextJS Docs: vercel**](https://nextjs.org/docs)
+    - [**Codevolution playlist**](https://www.youtube.com/watch?v=b4ba60j_4o8&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY) [Videos]
 
 
 ## Operating System ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
